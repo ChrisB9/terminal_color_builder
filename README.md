@@ -1,3 +1,4 @@
+# Terminal Color Builder for Rust
 
 Printing colorful terminal outputs using a builder pattern.
 
